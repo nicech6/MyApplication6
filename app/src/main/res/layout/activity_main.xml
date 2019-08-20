@@ -15,6 +15,8 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:title_center_str="标题"
+        app:title_center_size="16dp"
+        app:title_right_color="@android:color/black"
         app:title_left_drawable="@mipmap/ic_launcher"
         app:title_right_str="完成" />
 

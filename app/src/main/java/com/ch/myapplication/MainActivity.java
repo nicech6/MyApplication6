@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        titleView.setCenterText("嘻嘻");
     }
 }
